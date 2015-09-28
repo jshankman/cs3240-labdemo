@@ -4,6 +4,9 @@
 # Assignment: Lab 5 Pre-lab
 # Language: python3
 
+def greeting(msg):
+	print(msg)
+
 
 if __name__ == "__main__":
-	print("hello")
+	greeting("hello")
